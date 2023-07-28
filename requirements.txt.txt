@@ -1,0 +1,5 @@
+uproot
+lazypredict
+sklearn
+numpy
+matplotlib
